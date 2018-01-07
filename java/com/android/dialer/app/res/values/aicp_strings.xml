@@ -45,4 +45,8 @@
 
     <string name="auto_call_recording_title">Auto call recording</string>
     <string name="auto_call_recording_key" translatable="false">auto_call_recording</string>
+
+    <!-- Disable proximity sensor -->
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
 </resources>
