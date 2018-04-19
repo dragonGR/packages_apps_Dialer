@@ -19,4 +19,5 @@
   <!-- Forward lookup -->
   <!-- Number lookup -->
   <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Suchen können Abfragen an Remote-Websites über ein sicheres Protokoll (https) senden, um Informationen zu sammeln. Die Abfrage kann die Telefonnummer des anderen Teilnehmers oder die Suchanfrage enthalten</string>
 </resources>

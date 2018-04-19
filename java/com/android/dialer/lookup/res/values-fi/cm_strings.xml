@@ -19,4 +19,5 @@
   <!-- Forward lookup -->
   <!-- Number lookup -->
   <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Haku voi lähettää kyselyjä suojatun protokollan (https) kautta etäsivustoille tietojen keräämiseksi. Kysely voi sisältää toisen osapuolen puhelinnumeron tai hakukyselyn</string>
 </resources>
