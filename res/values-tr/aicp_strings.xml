@@ -17,8 +17,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
-  <string name="prox_auto_speaker_delay_dialog_title">Hoparlörü erteleme süresi (ms)</string>
+  <string name="speaker_settings_label">Yakınlık hoparlörü</string>
+  <string name="prox_auto_speaker_title">Otomatik yakınlık hoparlörü</string>
+  <string name="prox_auto_speaker_summary">Telefonunuzu kulağınızdan çektiğinizde hoparlörü otomatik olarak etkinleştirir</string>
+  <string name="prox_auto_speaker_delay_title">Hoparlör gecikmesi</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Hoparlörü gecikmesi (ms)</string>
   <string name="prox_auto_speaker_delay_summary">Hoparlör <xliff:g id="number">%d</xliff:g> ms içinde aktif edilecektir</string>
+  <string name="prox_auto_speaker_incall_only_title">Sadece arama esnasında</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">Giden aramalarda dinleyici sadece alıcı taraf cevapladıktan sonra aktif hale gelecektir</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">Dinleyici tüm çağrı cevaplama durumlarında etkin olacak (varsayılan)</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Akıllı seçenekler</string>
+  <string name="smart_mute_title">Akıllı sessizlik</string>
   <string name="smart_mute_summary">Cihazı çevirerek gelen aramayı yoksay</string>
 </resources>

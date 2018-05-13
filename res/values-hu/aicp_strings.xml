@@ -17,5 +17,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">Kihangosítás közelségérzékelés alapján</string>
+  <string name="prox_auto_speaker_title">Automatikus kihangosítás a közelségérzékelő-szenzor alapján</string>
+  <string name="prox_auto_speaker_summary">Kihangosító automatikus engedélyezése, ha a telefont elveszi a fülétől</string>
+  <string name="prox_auto_speaker_delay_title">Kihangosító késleltetése</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Kihangosító késleltetése (ms)</string>
+  <string name="prox_auto_speaker_delay_summary">A Kihangosító <xliff:g id="number">%d</xliff:g> ms múlva aktiválódik</string>
+  <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a kihangosító csak akkor lesz aktív, miután a fogadó fél fogadta a hívást</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">A kihangosító aktív lesz az összes bejövő hívás ideje alatt (alapértelmezett)</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Okosopciók</string>
+  <string name="smart_mute_title">Okos némítás</string>
+  <string name="smart_mute_summary">A készülék megfordítása elnémítja a bejövő hívást</string>
 </resources>

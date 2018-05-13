@@ -17,5 +17,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">自动免提</string>
+  <string name="prox_auto_speaker_title">自动启动免提功能</string>
+  <string name="prox_auto_speaker_summary">当您的手机离开您的耳边时自动启用扬声器</string>
+  <string name="prox_auto_speaker_delay_title">扬声器延迟</string>
+  <string name="prox_auto_speaker_delay_dialog_title">扬声器延迟(ms)</string>
+  <string name="prox_auto_speaker_delay_summary">免提功能将在 <xliff:g id="number">%d</xliff:g> 毫秒后启动</string>
+  <string name="prox_auto_speaker_incall_only_title">仅在通话时</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">在拨出电话时，监听器在对方接听后才启用</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">检测器在通话状态始终激活(默认)</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">智能选项</string>
+  <string name="smart_mute_title">智能静音</string>
+  <string name="smart_mute_summary">来电时翻转设备以静音</string>
 </resources>
