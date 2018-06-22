@@ -17,4 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Smart Options -->
+  <string name="smart_category_title">その他のオプション</string>
+  <string name="smart_mute_title">スマートミュート</string>
+  <string name="smart_mute_summary">端末を裏返しにすると着信をミュートします</string>
 </resources>
