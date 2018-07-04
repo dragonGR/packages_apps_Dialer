@@ -17,4 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
+  <string name="prox_auto_speaker_incall_only_title">통화중에만 사용</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">자동 스피커폰 기능은 모든 통화 중에 활성화됩니다 (기본값)</string>
 </resources>

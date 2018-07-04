@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Nur während eines Gesprächs</string>
   <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird die Funktion erst aktiv, wenn der Empfänger abhebt</string>
   <string name="prox_auto_speaker_incall_only_summary_off">Die Funktion ist während des gesamten Telefonats aktiv (Standard)</string>
+  <string name="type_incoming_volte">Eingehender 4G-Sprachanruf</string>
+  <string name="type_outgoing_volte">Ausgehender 4G-Sprachanruf</string>
+  <string name="type_missed_volte">Verpasster 4G-Sprachanruf</string>
+  <string name="recentIncoming_empty">Keine eingegangenen Anrufe vorhanden.</string>
+  <string name="recentOutgoing_empty">Keine getätigten Anrufe vorhanden.</string>
+  <string name="call_log_show_all_slots">Alle SIM-Karten</string>
+  <string name="call_log_all_calls_header">Alle Anrufe</string>
 </resources>

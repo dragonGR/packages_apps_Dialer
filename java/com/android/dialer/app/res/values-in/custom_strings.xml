@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Saat dalam panggilan saja</string>
   <string name="prox_auto_speaker_incall_only_summary_on">Pada panggilan keluar, pendengar hanya akan aktif setelah pihak penerima menjawab</string>
   <string name="prox_auto_speaker_incall_only_summary_off">Pendengar akan aktif selama semua status panggilan offhook (standar)</string>
+  <string name="type_incoming_volte">Panggilan suara 4G masuk</string>
+  <string name="type_outgoing_volte">Panggilan suara 4G keluar</string>
+  <string name="type_missed_volte">Panggilan suara 4G tidak terjawab</string>
+  <string name="recentIncoming_empty">Tidak ada panggilan masuk.</string>
+  <string name="recentOutgoing_empty">Tidak ada panggilan keluar.</string>
+  <string name="call_log_show_all_slots">Semua SIM</string>
+  <string name="call_log_all_calls_header">Semua panggilan</string>
 </resources>

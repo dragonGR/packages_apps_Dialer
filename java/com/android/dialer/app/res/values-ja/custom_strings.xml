@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">通話中のみ</string>
   <string name="prox_auto_speaker_incall_only_summary_on">発信時、受信側が応答した後にスピーカーがアクティブになります</string>
   <string name="prox_auto_speaker_incall_only_summary_off">スピーカーは通話時のすべての状態でアクティブになります（デフォルト）</string>
+  <string name="type_incoming_volte">4G 音声通話の着信</string>
+  <string name="type_outgoing_volte">4G 音声通話の発信</string>
+  <string name="type_missed_volte">4G 音声通話の不在着信</string>
+  <string name="recentIncoming_empty">着信履歴はありません</string>
+  <string name="recentOutgoing_empty">発信履歴はありません</string>
+  <string name="call_log_show_all_slots">すべての SIM</string>
+  <string name="call_log_all_calls_header">すべての通話</string>
 </resources>

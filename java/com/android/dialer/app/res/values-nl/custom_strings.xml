@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Alleen tijdens bellen</string>
   <string name="prox_auto_speaker_incall_only_summary_on">Bij uitgaande oproepen zal deze functie pas geactiveerd worden als de oproep beantwoord wordt</string>
   <string name="prox_auto_speaker_incall_only_summary_off">Functie is actief, ongeacht de gespreksstatus (standaard)</string>
+  <string name="type_incoming_volte">Inkomende spraakoproep via 4G</string>
+  <string name="type_outgoing_volte">Uitgaande spraakoproep via 4G</string>
+  <string name="type_missed_volte">Gemiste spraakoproep via 4G</string>
+  <string name="recentIncoming_empty">Geen inkomende oproepen.</string>
+  <string name="recentOutgoing_empty">Geen uitgaande oproepen.</string>
+  <string name="call_log_show_all_slots">Alle SIM-kaarten</string>
+  <string name="call_log_all_calls_header">Alle oproepen</string>
 </resources>

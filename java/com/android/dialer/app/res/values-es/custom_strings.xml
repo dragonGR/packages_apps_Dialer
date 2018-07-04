@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Solo durante la llamada</string>
   <string name="prox_auto_speaker_incall_only_summary_on">En llamadas salientes, el altavoz solo se activará cuando la otra persona conteste</string>
   <string name="prox_auto_speaker_incall_only_summary_off">El sensor estará activo durante todos los estados de la llamada en curso (predeterminado)</string>
+  <string name="type_incoming_volte">Llamada 4G entrante</string>
+  <string name="type_outgoing_volte">Llamada 4G saliente</string>
+  <string name="type_missed_volte">Llamada 4G perdida</string>
+  <string name="recentIncoming_empty">No tienes llamadas entrantes.</string>
+  <string name="recentOutgoing_empty">No tienes llamadas salientes.</string>
+  <string name="call_log_show_all_slots">Todas las SIMs</string>
+  <string name="call_log_all_calls_header">Todas las llamadas</string>
 </resources>

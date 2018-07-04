@@ -26,4 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
   <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a kihangosító csak akkor lesz aktív, miután a fogadó fél fogadta a hívást</string>
   <string name="prox_auto_speaker_incall_only_summary_off">A kihangosító aktív lesz az összes bejövő hívás ideje alatt (alapértelmezett)</string>
+  <string name="type_incoming_volte">Bejövő 4G hanghívás</string>
+  <string name="type_outgoing_volte">Kimenő 4G hanghívás</string>
+  <string name="type_missed_volte">Nem fogadott 4G hanghívás</string>
+  <string name="recentIncoming_empty">Önnek nincsenek bejövő hívásai.</string>
+  <string name="recentOutgoing_empty">Önnek nincsenek kimenő hívásai.</string>
+  <string name="call_log_show_all_slots">Minden SIM</string>
+  <string name="call_log_all_calls_header">Minden hívás</string>
 </resources>
