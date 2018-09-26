@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Smart Options -->
+  <string name="smart_category_title">다른 옵션</string>
   <string name="smart_mute_title">스마트 음소거</string>
   <string name="smart_mute_summary">디바이스를 뒤집어 수신전화 벨소리 끄기</string>
 </resources>

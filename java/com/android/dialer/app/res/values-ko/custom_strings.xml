@@ -17,9 +17,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">근접 스피커폰</string>
+  <string name="prox_auto_speaker_title">자동으로 스피커폰으로 전환</string>
+  <string name="prox_auto_speaker_summary">통화 중 기기가 사용자의 귀에서 멀어졌을 때 자동으로 스피커폰을 활성화</string>
+  <string name="prox_auto_speaker_delay_title">스피커폰 지연 시간</string>
+  <string name="prox_auto_speaker_delay_dialog_title">스피커폰 지연 (ms)</string>
+  <string name="prox_auto_speaker_delay_summary"><xliff:g id="number">%d</xliff:g> ms 후에 스피커폰 활성화</string>
   <string name="prox_auto_speaker_incall_only_title">통화중에만 사용</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">발신 중일 경우, 스피커 센서는 수신자가 회신하는 경우에만 활성화됩니다.</string>
   <string name="prox_auto_speaker_incall_only_summary_off">자동 스피커폰 기능은 모든 통화 중에 활성화됩니다 (기본값)</string>
+  <string name="type_incoming_volte">수신 4G 음성 통화</string>
+  <string name="type_outgoing_volte">발신 4G 음성 통화</string>
   <string name="type_missed_volte">부재중 4G 음성 통화</string>
   <string name="recentIncoming_empty">수신된 전화 내역이 없습니다.</string>
   <string name="recentOutgoing_empty">발신한 전화 내역이 없습니다.</string>
+  <string name="call_log_show_all_slots">모든 SIM</string>
+  <string name="call_log_all_calls_header">모든 통화</string>
 </resources>

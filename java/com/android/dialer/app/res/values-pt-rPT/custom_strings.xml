@@ -26,5 +26,11 @@
   <string name="prox_auto_speaker_incall_only_title">Apenas durante uma chamada</string>
   <string name="prox_auto_speaker_incall_only_summary_on">Em chamadas realizadas, só se ouvirá som no auricular quando a outra parte atender</string>
   <string name="prox_auto_speaker_incall_only_summary_off">O altifalante estará ativo durante todos os estados da chamada (padrão)</string>
+  <string name="type_incoming_volte">Chamada de voz 4G</string>
+  <string name="type_outgoing_volte">Chamada de voz de saída 4G</string>
+  <string name="type_missed_volte">Chamada de voz perdida 4G</string>
+  <string name="recentIncoming_empty">Você não tem chamadas recebidas.</string>
+  <string name="recentOutgoing_empty">Não tem chamadas efetuadas.</string>
   <string name="call_log_show_all_slots">Todos os SIMs</string>
+  <string name="call_log_all_calls_header">Todas as chamadas</string>
 </resources>

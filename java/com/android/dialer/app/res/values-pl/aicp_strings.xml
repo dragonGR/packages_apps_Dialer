@@ -17,4 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Smart Options -->
+  <string name="smart_category_title">Pozostałe opcje</string>
+  <string name="smart_mute_title">Inteligentne wyciszanie</string>
+  <string name="smart_mute_summary">Wyciszenie dzwonka połączenia przychodzącego przez obrócenie urządzenia</string>
 </resources>
