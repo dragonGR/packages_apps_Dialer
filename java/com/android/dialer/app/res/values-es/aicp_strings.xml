@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Smart Options -->
-  <string name="smart_category_title">Otras opciones</string>
-  <string name="smart_mute_title">Silenciado inteligente</string>
-  <string name="smart_mute_summary">Silenciar las llamadas entrantes volteando el dispositivo</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Otras opciones</string>
+    <string name="smart_mute_title">Silenciado inteligente</string>
+    <string name="smart_mute_summary">Silenciar las llamadas entrantes volteando el dispositivo</string>
 </resources>
