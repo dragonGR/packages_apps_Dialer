@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Smart Options -->
-  <string name="smart_category_title">其他选项</string>
-  <string name="smart_mute_title">智能静音</string>
-  <string name="smart_mute_summary">来电时翻转设备以静音</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">其他选项</string>
+    <string name="smart_mute_title">智能静音</string>
+    <string name="smart_mute_summary">来电时翻转设备以静音</string>
 </resources>

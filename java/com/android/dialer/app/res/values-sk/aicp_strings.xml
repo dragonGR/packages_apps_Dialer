@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Smart Options -->
-  <string name="smart_category_title">Ďaľšie možnosti</string>
-  <string name="smart_mute_title">Inteligentné stíšenie</string>
-  <string name="smart_mute_summary">Stlmiť vyzváňanie prichádzajúceho hovoru otočením zariadenia</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Ďaľšie možnosti</string>
+    <string name="smart_mute_title">Inteligentné stíšenie</string>
+    <string name="smart_mute_summary">Stlmiť vyzváňanie prichádzajúceho hovoru otočením zariadenia</string>
 </resources>

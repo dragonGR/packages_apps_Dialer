@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Smart Options -->
-  <string name="smart_category_title">Weitere Optionen</string>
-  <string name="smart_mute_title">Intelligentes Stummschalten</string>
-  <string name="smart_mute_summary">Eingehende Anrufe stummschalten, indem das Gerät umgedreht wird</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Weitere Optionen</string>
+    <string name="smart_mute_title">Intelligentes Stummschalten</string>
+    <string name="smart_mute_summary">Eingehende Anrufe stummschalten, indem das Gerät umgedreht wird</string>
 </resources>
