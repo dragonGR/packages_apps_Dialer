@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">手势操作</string>
     <string name="smart_mute_title">智能静音</string>
     <string name="smart_mute_summary">翻转设备以静音传入呼叫</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">自动免提</string>
     <string name="prox_auto_speaker_title">自动启动免提功能</string>
     <string name="prox_auto_speaker_summary">当您的手机离开您的耳边时自动启用扬声器</string>

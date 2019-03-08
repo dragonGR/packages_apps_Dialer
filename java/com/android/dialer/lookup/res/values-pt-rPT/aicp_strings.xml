@@ -16,7 +16,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Forward lookup -->
-    <!-- Number lookup -->
     <string name="enable_people_lookup_summary">Mostrar resultados online para pessoas ao pesquisar no discador</string>
 </resources>

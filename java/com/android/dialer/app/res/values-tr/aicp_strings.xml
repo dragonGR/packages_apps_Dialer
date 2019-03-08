@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Hareketler</string>
     <string name="smart_mute_title">Akıllı sessizlik</string>
     <string name="smart_mute_summary">Gelen aramayı sessize almak için cihazı çevirin</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Yakınlık hoparlörü</string>
     <string name="prox_auto_speaker_title">Otomatik yakınlık hoparlörü</string>
     <string name="prox_auto_speaker_summary">Telefonunuzu kulağınızdan çektiğinizde hoparlörü otomatik olarak etkinleştirir</string>

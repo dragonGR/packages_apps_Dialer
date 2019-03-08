@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Gestá</string>
     <string name="smart_mute_title">Inteligentné stíšenie</string>
     <string name="smart_mute_summary">Otočiť zariadenie pre stlmenie prichádzajúceho hovoru</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Snímač priblízenia hlasitého odposluchu</string>
     <string name="prox_auto_speaker_title">Automatický hlasitý odposluch</string>
     <string name="prox_auto_speaker_summary">Automaticky povoliť hlasitý odposluch, ak je telefón vzdialený od ucha</string>

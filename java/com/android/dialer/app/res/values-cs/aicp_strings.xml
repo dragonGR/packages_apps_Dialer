@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Gesta</string>
     <string name="smart_mute_title">Inteligentní ztlumení</string>
     <string name="smart_mute_summary">Otočit zařízení pro ztlumení příchozího hovoru</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Přiblížení reproduktoru</string>
     <string name="prox_auto_speaker_title">Automatické přiblížení reproduktoru</string>
     <string name="prox_auto_speaker_summary">Automaticky povolit hlasitý reproduktor při odebrání z ucha</string>

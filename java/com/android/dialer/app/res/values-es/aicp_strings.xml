@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Gestos</string>
     <string name="smart_mute_title">Silenciado inteligente</string>
     <string name="smart_mute_summary">Voltear el dispositivo para silenciar una llamada entrante</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Altavoz de proximidad</string>
     <string name="prox_auto_speaker_title">Altavoz de proximidad automático</string>
     <string name="prox_auto_speaker_summary">Activa el altavoz automáticamente cuando el teléfono se retira de la oreja</string>

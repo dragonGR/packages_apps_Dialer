@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Жесты</string>
     <string name="smart_mute_title">Умное отключение звука</string>
     <string name="smart_mute_summary">Переверните устройство для отключения звука входящего звонка</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Громкая связь при приближении</string>
     <string name="prox_auto_speaker_title">Автоматическое включение громкой связи по датчику приближения</string>
     <string name="prox_auto_speaker_summary">Автоматическое включение громкой связи при отдалении телефона от уха</string>

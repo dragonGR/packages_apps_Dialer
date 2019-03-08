@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Gesten</string>
     <string name="smart_mute_title">Intelligentes Stummschalten</string>
     <string name="smart_mute_summary">Gerät umdrehen, um einen eingehenden Anruf stumm zu schalten</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Freisprechen</string>
     <string name="prox_auto_speaker_title">Automatisches Freisprechen</string>
     <string name="prox_auto_speaker_summary">Freisprechen automatisch aktivieren, wenn das Telefon vom Ohr entfernt wird</string>

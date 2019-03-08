@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">Mozdulatvezérlés</string>
     <string name="smart_mute_title">Okos némítás</string>
     <string name="smart_mute_summary">A készülék megfordításával elnémítja a bejövő hívást</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Kihangosítás közelségérzékelés alapján</string>
     <string name="prox_auto_speaker_title">Automatikus kihangosítás a közelségérzékelő-szenzor alapján</string>
     <string name="prox_auto_speaker_summary">Kihangosító automatikus engedélyezése, ha a telefont elveszi a fülétől</string>

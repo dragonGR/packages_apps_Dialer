@@ -17,8 +17,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_mute_title">Bisukan cerdas</string>
-    <!-- Proximity speaker -->
     <string name="prox_auto_speaker_incall_only_title">Hanya saat sedang dalam panggilan</string>
 </resources>

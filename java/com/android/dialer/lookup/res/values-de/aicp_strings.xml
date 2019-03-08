@@ -16,10 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Forward lookup -->
     <string name="nearby_places">Orte in der Nähe</string>
     <string name="people">Personen</string>
-    <!-- Number lookup -->
     <string name="lookup_settings_label">Telefonnummernsuche</string>
     <string name="enable_forward_lookup_title">Vorwärtssuche</string>
     <string name="enable_forward_lookup_summary">Zeige Orte in der Nähe während der Nummerneingabe</string>

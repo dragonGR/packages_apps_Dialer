@@ -17,11 +17,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Smart Options -->
     <string name="smart_category_title">ジェスチャー</string>
     <string name="smart_mute_title">スマートミュート</string>
     <string name="smart_mute_summary">端末を反転させて着信をミュートします</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">近接スピーカーフォン</string>
     <string name="prox_auto_speaker_title">自動近接スピーカーフォン</string>
     <string name="prox_auto_speaker_summary">端末を耳から離したときにスピーカーフォンを自動的に有効化します</string>

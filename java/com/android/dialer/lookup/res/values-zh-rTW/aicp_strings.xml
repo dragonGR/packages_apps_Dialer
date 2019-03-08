@@ -16,10 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Forward lookup -->
     <string name="nearby_places">鄰近的地區</string>
     <string name="people">人員</string>
-    <!-- Number lookup -->
     <string name="lookup_settings_label">查詢電話號碼</string>
     <string name="enable_forward_lookup_title">轉接查詢</string>
     <string name="enable_forward_lookup_summary">在撥號介面中搜尋時顯示附近的地點</string>
