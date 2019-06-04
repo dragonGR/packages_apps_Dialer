@@ -17,6 +17,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="smart_category_title">Gerakan</string>
     <string name="smart_mute_title">Bisukan cerdas</string>
+    <string name="speaker_settings_label">Jarak speaker</string>
+    <string name="prox_auto_speaker_title">Jarak speaker otomatis</string>
+    <string name="prox_auto_speaker_summary">Mengaktifkan speaker secara otomatis saat Anda menjauhkan ponsel dari telinga</string>
+    <string name="prox_auto_speaker_delay_title">Tunda speaker</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Tunda speaker dalam (md)</string>
+    <string name="prox_auto_speaker_delay_summary">Speaker akan dinyalakan dalam <xliff:g id="number">%d </xliff:g> md</string>
     <string name="prox_auto_speaker_incall_only_title">Hanya saat sedang dalam panggilan</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Pada panggilan keluar, pendengar hanya akan aktif setelah pihak penerima menjawab</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Pendengar akan aktif selama semua status panggilan offhook (standar)</string>
 </resources>

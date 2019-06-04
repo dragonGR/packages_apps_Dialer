@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Tylko podczas rozmowy</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Dla połączeń wychodzących, detektor będzie aktywny tylko po otrzymaniu odpowiedzi</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Detektor będzie aktywny podczas wszystkich rodzajów połączeń (domyślnie)</string>
+    <string name="fullscreen_caller_photo_title">Zdjęcie na pełen ekran</string>
+    <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie dzwoniącego na pełnym ekranie dla połączeń przychodzących i wychodzących</string>
+    <string name="fullscreen_caller_photo_message">By użyć, musisz zrestartować aplikację</string>
 </resources>

@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Только во время входящего вызова</string>
     <string name="prox_auto_speaker_incall_only_summary_on">При исходящих звонках функция активируется только после ответа на вызов</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Функция будет активна при любых состояниях вызова (по умолчанию)</string>
+    <string name="fullscreen_caller_photo_title">Полноэкранное фото</string>
+    <string name="fullscreen_caller_photo_summary">Показывать полноэкранное фото при входящих и исходящих звонках</string>
+    <string name="fullscreen_caller_photo_message">Для использования необходимо перезапустить приложение</string>
 </resources>

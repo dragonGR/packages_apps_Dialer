@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Alleen tijdens bellen</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Bij uitgaande oproepen zal deze functie pas geactiveerd worden als de oproep beantwoord wordt</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Functie is actief, ongeacht de gespreksstatus (standaard)</string>
+    <string name="fullscreen_caller_photo_title">Foto op volledig scherm</string>
+    <string name="fullscreen_caller_photo_summary">Toon foto op volledig scherm bij inkomende en uitgaande oproepen</string>
+    <string name="fullscreen_caller_photo_message">Om dit te gebruiken moet de applicatie worden herstart</string>
 </resources>

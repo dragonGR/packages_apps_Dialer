@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Pouze při volání</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Při odchozích hovorech se reproduktor aktivuje při přijmutí hovoru protistranou</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Reproduktor bude aktivní vždy, i při vyzvánění (výchozí)</string>
+    <string name="fullscreen_caller_photo_title">Fotka přes celou obrazovku</string>
+    <string name="fullscreen_caller_photo_summary">Při volání zobrazit fotografii volajícího přes celou obrazovku</string>
+    <string name="fullscreen_caller_photo_message">Chcete-li toto použít, musíte aplikaci restartovat</string>
 </resources>

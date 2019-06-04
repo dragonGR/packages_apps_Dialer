@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Yalnızca arama sırasında</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Giden aramalarda dinleyici sadece alıcı taraf cevapladıktan sonra aktif hale gelecektir</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Dinleyici aramayı cevapladığı durumda etkin olacak (varsayılan)</string>
+    <string name="fullscreen_caller_photo_title">Tam ekran fotoğrafı</string>
+    <string name="fullscreen_caller_photo_summary">Gelen ve giden aramalarda tam ekran fotoğrafı göster</string>
+    <string name="fullscreen_caller_photo_message">Kullanmak için uygulamayı yeniden başlatmanız gerekir</string>
 </resources>

@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Nur während eines Gesprächs</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird die Funktion erst aktiv, wenn der Empfänger abhebt</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Die Funktion ist während des gesamten Telefonats aktiv (Standard)</string>
+    <string name="fullscreen_caller_photo_title">Vollbildmodus</string>
+    <string name="fullscreen_caller_photo_summary">Vollbild-Foto in eingehenden und ausgehenden Anrufen anzeigen</string>
+    <string name="fullscreen_caller_photo_message">Um dies zu nutzen, muss die Anwendung neu gestartet werden</string>
 </resources>

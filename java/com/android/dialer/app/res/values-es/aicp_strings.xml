@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Solo durante una llamada</string>
     <string name="prox_auto_speaker_incall_only_summary_on">En llamadas salientes, el altavoz solo se activará cuando la otra persona conteste</string>
     <string name="prox_auto_speaker_incall_only_summary_off">El sensor estará activo durante todos los estados de la llamada en curso (predeterminado)</string>
+    <string name="fullscreen_caller_photo_title">Foto en pantalla completa</string>
+    <string name="fullscreen_caller_photo_summary">Mostrar foto en pantalla completa en llamadas entrantes y salientes</string>
+    <string name="fullscreen_caller_photo_message">Para usarlo, debe reiniciar la aplicación</string>
 </resources>

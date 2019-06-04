@@ -29,4 +29,7 @@
     <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
     <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a kihangosító csak akkor lesz aktív, miután a fogadó fél fogadta a hívást</string>
     <string name="prox_auto_speaker_incall_only_summary_off">A kihangosító aktív lesz az összes bejövő hívás ideje alatt (alapértelmezett)</string>
+    <string name="fullscreen_caller_photo_title">Teljesképernyős-fénykép</string>
+    <string name="fullscreen_caller_photo_summary">Kimenő és bejövő hívások közben teljes képernyőt betöltő fényképek használata</string>
+    <string name="fullscreen_caller_photo_message">Használathoz újra kell indítania az alkalmazást</string>
 </resources>
