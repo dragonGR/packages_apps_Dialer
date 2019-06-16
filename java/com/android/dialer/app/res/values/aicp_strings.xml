@@ -49,4 +49,9 @@
     <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
     <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+
+    <!-- Disable InCall UI Accent -->
+    <string name="dialer_accent_enable_title">In-Call UI Accent</string>
+    <string name="dialer_accent_enable_summary">Use accent color for In-Call UI background</string>
+
 </resources>

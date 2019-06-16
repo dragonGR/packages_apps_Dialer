@@ -29,8 +29,10 @@ public class DisplayOptionsSettingsFragment extends PreferenceFragment
     implements Preference.OnPreferenceChangeListener {
 
   private static final String FULLSCREEN_CALLER_PHOTO = "fullscreen_caller_photo";
+  private static final String INCALLUI_ACCENT_COLOR = "dialer_accent_enable";
   private SharedPreferences mPrefs;
 
+  private SwitchPreference mAccentColorIncallUI;
   private SwitchPreference mFullscreenCallerPhoto;
 
   @Override
@@ -45,6 +47,10 @@ public class DisplayOptionsSettingsFragment extends PreferenceFragment
     mFullscreenCallerPhoto = (SwitchPreference) findPreference(FULLSCREEN_CALLER_PHOTO);
     mFullscreenCallerPhoto.setChecked(mPrefs.getBoolean(FULLSCREEN_CALLER_PHOTO, false));
     mFullscreenCallerPhoto.setOnPreferenceChangeListener(this);
+
+    mAccentColorIncallUI = (SwitchPreference) findPreference(INCALLUI_ACCENT_COLOR);
+    mAccentColorIncallUI.setChecked(mPrefs.getBoolean(INCALLUI_ACCENT_COLOR, false));
+    mAccentColorIncallUI.setOnPreferenceChangeListener(this);
   }
 
   @Override
@@ -54,6 +60,13 @@ public class DisplayOptionsSettingsFragment extends PreferenceFragment
         mPrefs
           .edit()
           .putBoolean(FULLSCREEN_CALLER_PHOTO, value)
+          .apply();
+        return true;
+    } else if (preference == mAccentColorIncallUI) {
+        boolean value = (Boolean) objValue;
+        mPrefs
+          .edit()
+          .putBoolean(INCALLUI_ACCENT_COLOR, value)
           .apply();
         return true;
     }
