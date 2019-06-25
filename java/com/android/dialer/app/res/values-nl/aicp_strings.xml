@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Overige instellingen</string>
     <string name="smart_category_title">Gebaren</string>
     <string name="smart_mute_title">Slim dempen</string>
     <string name="smart_mute_summary">Draai apparaat om om inkomende oproep te dempen</string>
@@ -32,4 +33,5 @@
     <string name="fullscreen_caller_photo_title">Foto op volledig scherm</string>
     <string name="fullscreen_caller_photo_summary">Toon foto op volledig scherm bij inkomende en uitgaande oproepen</string>
     <string name="fullscreen_caller_photo_message">Om dit te gebruiken moet de applicatie worden herstart</string>
+    <string name="disable_proximity_sensor_title">Uitschakelen nabijheidssensor</string>
 </resources>

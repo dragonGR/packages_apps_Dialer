@@ -17,5 +17,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="smart_category_title">Gestos</string>
     <string name="smart_mute_title">Sem som inteligente</string>
+    <string name="smart_mute_summary">Virar o dispositivo para silenciar a chamada recebida</string>
+    <string name="speaker_settings_label">Viva-voz</string>
+    <string name="prox_auto_speaker_title">Viva-voz automático</string>
+    <string name="prox_auto_speaker_summary">Ativar o viva-voz automaticamente quando o telefone é removido da sua orelha</string>
+    <string name="prox_auto_speaker_delay_title">Atraso do viva-voz</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Atraso do viva-voz em (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">O viva-voz será ativado em <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Apenas durante uma chamada</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Em chamadas sendo realizadas, o auto-falante só ficará ativo após a outra pessoa responder</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">O ouvinte ficará ativo durante todo o processo da chamada (padrão)</string>
+    <string name="fullscreen_caller_photo_title">Modo de tela cheia</string>
+    <string name="fullscreen_caller_photo_summary">Exibir modo de tela cheia nas chamadas recebidas e efetuadas</string>
+    <string name="fullscreen_caller_photo_message">Para aplicar, você deve reiniciar o aplicativo</string>
 </resources>

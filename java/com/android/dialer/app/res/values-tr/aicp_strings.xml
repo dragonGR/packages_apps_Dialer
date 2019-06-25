@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Diğer ayarlar</string>
     <string name="smart_category_title">Hareketler</string>
     <string name="smart_mute_title">Akıllı sessizlik</string>
     <string name="smart_mute_summary">Gelen aramayı sessize almak için cihazı çevirin</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Tam ekran fotoğrafı</string>
     <string name="fullscreen_caller_photo_summary">Gelen ve giden aramalarda tam ekran fotoğrafı göster</string>
     <string name="fullscreen_caller_photo_message">Kullanmak için uygulamayı yeniden başlatmanız gerekir</string>
+    <string name="enable_post_call_title">Posta araması</string>
+    <string name="enable_post_call_summary">Ekranın altında çağrı sonrası bildirimleri etkinleştir</string>
+    <string name="auto_call_recording_title">Otomatik arama kaydı</string>
+    <string name="disable_proximity_sensor_title">Yakınlık sensörünü devre dışı bırak</string>
+    <string name="disable_proximity_sensor_summary">Yakınlık sensörüne bağlı olarak dokunmatik ekranı ve çağrıyı görüntülemeyin</string>
+    <string name="dialer_accent_enable_title">Arama içi arayüzü vurgu rengi</string>
+    <string name="dialer_accent_enable_summary">Arama arayüzü arka planı için vurgu rengini kullan</string>
 </resources>

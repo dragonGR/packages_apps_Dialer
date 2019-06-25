@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Inne ustawienia</string>
     <string name="smart_category_title">Gesty</string>
     <string name="smart_mute_title">Inteligentne wyciszanie</string>
     <string name="smart_mute_summary">Odwróć urządzenie, aby wyciszyć połączenia przychodzące</string>
@@ -32,4 +33,8 @@
     <string name="fullscreen_caller_photo_title">Zdjęcie na pełen ekran</string>
     <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie dzwoniącego na pełnym ekranie dla połączeń przychodzących i wychodzących</string>
     <string name="fullscreen_caller_photo_message">By użyć, musisz zrestartować aplikację</string>
+    <string name="enable_post_call_summary">Włącz powiadomienia o połączeniu na dole ekranu</string>
+    <string name="auto_call_recording_title">Automatyczne nagrywanie połączeń</string>
+    <string name="disable_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
+    <string name="disable_proximity_sensor_summary">Nie wyłączaj ekranu dotykowego i nie wyświetlaj rozmów w oparciu o czujnik zbliżeniowy</string>
 </resources>

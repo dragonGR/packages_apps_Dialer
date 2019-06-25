@@ -28,4 +28,6 @@
     <string name="prox_auto_speaker_incall_only_title">Hanya saat sedang dalam panggilan</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Pada panggilan keluar, pendengar hanya akan aktif setelah pihak penerima menjawab</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Pendengar akan aktif selama semua status panggilan offhook (standar)</string>
+    <string name="fullscreen_caller_photo_title">Foto layar penuh</string>
+    <string name="fullscreen_caller_photo_message">Untuk menggunakan, Anda harus memulai ulang aplikasi</string>
 </resources>

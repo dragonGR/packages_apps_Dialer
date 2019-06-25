@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Weitere Einstellungen</string>
     <string name="smart_category_title">Gesten</string>
     <string name="smart_mute_title">Intelligentes Stummschalten</string>
     <string name="smart_mute_summary">Gerät umdrehen, um einen eingehenden Anruf stumm zu schalten</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Vollbildmodus</string>
     <string name="fullscreen_caller_photo_summary">Vollbild-Foto in eingehenden und ausgehenden Anrufen anzeigen</string>
     <string name="fullscreen_caller_photo_message">Um dies zu nutzen, muss die Anwendung neu gestartet werden</string>
+    <string name="enable_post_call_title">Benachrichtigung nach dem Anruf</string>
+    <string name="enable_post_call_summary">Benachrichtigungen nach einem Anruf am unteren Bildschirmrand aktivieren</string>
+    <string name="auto_call_recording_title">Automatische Anrufaufzeichnung</string>
+    <string name="disable_proximity_sensor_title">Näherungssensor deaktivieren</string>
+    <string name="disable_proximity_sensor_summary">Display nicht ausschalten und während des Anrufs, basierend auf dem Näherungssensor, anzeigen</string>
+    <string name="dialer_accent_enable_title">Akzentfarbe während Anrufen nutzen</string>
+    <string name="dialer_accent_enable_summary">Akzentfarbe für den Hintergrund während Anrufen nutzen</string>
 </resources>

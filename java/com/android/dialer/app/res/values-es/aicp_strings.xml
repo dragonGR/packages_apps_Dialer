@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Otros ajustes</string>
     <string name="smart_category_title">Gestos</string>
     <string name="smart_mute_title">Silenciado inteligente</string>
     <string name="smart_mute_summary">Voltear el dispositivo para silenciar una llamada entrante</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Foto en pantalla completa</string>
     <string name="fullscreen_caller_photo_summary">Mostrar foto en pantalla completa en llamadas entrantes y salientes</string>
     <string name="fullscreen_caller_photo_message">Para usarlo, debe reiniciar la aplicación</string>
+    <string name="enable_post_call_title">Notificación tras llamada</string>
+    <string name="enable_post_call_summary">Habilitar notificaciones tras las llamadas en la parte inferior de la pantalla</string>
+    <string name="auto_call_recording_title">Grabación automática de llamadas</string>
+    <string name="disable_proximity_sensor_title">Deshabilitar sensor de proximidad</string>
+    <string name="disable_proximity_sensor_summary">No desactivar el panel táctil y la pantalla en una llamada basándose en el sensor de proximidad</string>
+    <string name="dialer_accent_enable_title">Color principal en llamadas</string>
+    <string name="dialer_accent_enable_summary">Usar el color principal del sistema para el fondo de las llamadas</string>
 </resources>

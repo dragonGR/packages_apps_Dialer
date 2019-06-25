@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Další nastavení</string>
     <string name="smart_category_title">Gesta</string>
     <string name="smart_mute_title">Inteligentní ztlumení</string>
     <string name="smart_mute_summary">Otočit zařízení pro ztlumení příchozího hovoru</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Fotka přes celou obrazovku</string>
     <string name="fullscreen_caller_photo_summary">Při volání zobrazit fotografii volajícího přes celou obrazovku</string>
     <string name="fullscreen_caller_photo_message">Chcete-li toto použít, musíte aplikaci restartovat</string>
+    <string name="enable_post_call_title">Oznámení po volání</string>
+    <string name="enable_post_call_summary">Povolit oznámení po volání v dolní části obrazovky</string>
+    <string name="auto_call_recording_title">Automatické nahrávání hovorů</string>
+    <string name="disable_proximity_sensor_title">Zakázat senzor přiblížení</string>
+    <string name="disable_proximity_sensor_summary">Na základě senzoru přiblížení nebude obrazovka vypnuta během hovoru</string>
+    <string name="dialer_accent_enable_title">Barva zvýraznění při hovoru</string>
+    <string name="dialer_accent_enable_summary">Použít barvu zvýraznění pro pozadí aplikace Telefon</string>
 </resources>

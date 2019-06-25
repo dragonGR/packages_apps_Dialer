@@ -16,5 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="enable_people_lookup_summary">Mostrar resultados online para pessoas ao pesquisar no discador</string>
+    <string name="nearby_places">Locais próximos</string>
+    <string name="people">Pessoas</string>
+    <string name="lookup_settings_label">Pesquisar números de telefone</string>
+    <string name="enable_forward_lookup_title">Pesquisa direta</string>
+    <string name="enable_forward_lookup_summary">Mostrar lugares próximos ao pesquisar no discador</string>
+    <string name="enable_people_lookup_title">Pesquisa de pessoas</string>
+    <string name="enable_people_lookup_summary">Mostrar resultados on-line para pessoas ao pesquisar no discador</string>
+    <string name="enable_reverse_lookup_title">Pesquisa inversa</string>
+    <string name="enable_reverse_lookup_summary">Procurar informações sobre a pessoa ou lugar para números desconhecidos de chamadas recebidas</string>
+    <string name="forward_lookup_provider_title">Provedor de pesquisa direta</string>
+    <string name="people_lookup_provider_title">Fornecedor de pesquisa inversa</string>
+    <string name="reverse_lookup_provider_title">Fornecedor de pesquisa inversa</string>
 </resources>

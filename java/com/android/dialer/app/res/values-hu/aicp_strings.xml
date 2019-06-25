@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Egyéb beállítások</string>
     <string name="smart_category_title">Mozdulatvezérlés</string>
     <string name="smart_mute_title">Okos némítás</string>
     <string name="smart_mute_summary">A készülék megfordításával elnémítja a bejövő hívást</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Teljesképernyős-fénykép</string>
     <string name="fullscreen_caller_photo_summary">Kimenő és bejövő hívások közben teljes képernyőt betöltő fényképek használata</string>
     <string name="fullscreen_caller_photo_message">Használathoz újra kell indítania az alkalmazást</string>
+    <string name="enable_post_call_title">Hívás utáni \'snackbar\'</string>
+    <string name="enable_post_call_summary">Engedélyezi a hívás utáni értesítéseket a képernyő alján</string>
+    <string name="auto_call_recording_title">Automatikus hívásrögzítés</string>
+    <string name="disable_proximity_sensor_title">A közelségérzékelő kikapcsolása</string>
+    <string name="disable_proximity_sensor_summary">A közelségérzékelő nem fogja kikapcsolni az érintőképernyőt és a kijelzőt hívás közben</string>
+    <string name="dialer_accent_enable_title">Kiemelőszín a hívófelületen</string>
+    <string name="dialer_accent_enable_summary">A rendszer kiemelőszínét fogja használni a hívási felület háttereként</string>
 </resources>

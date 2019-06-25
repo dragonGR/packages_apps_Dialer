@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Прочие настройки</string>
     <string name="smart_category_title">Жесты</string>
     <string name="smart_mute_title">Умное отключение звука</string>
     <string name="smart_mute_summary">Переверните устройство для отключения звука входящего звонка</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Полноэкранное фото</string>
     <string name="fullscreen_caller_photo_summary">Показывать полноэкранное фото при входящих и исходящих звонках</string>
     <string name="fullscreen_caller_photo_message">Для использования необходимо перезапустить приложение</string>
+    <string name="enable_post_call_title">Уведомление после звонка</string>
+    <string name="enable_post_call_summary">Включить уведомления после звонка в нижней части экрана</string>
+    <string name="auto_call_recording_title">Авто запись звонка</string>
+    <string name="disable_proximity_sensor_title">Выключить датчик приближения</string>
+    <string name="disable_proximity_sensor_summary">Не выключать сенсорный экран и отображать входящий вызов на основе датчика приближения</string>
+    <string name="dialer_accent_enable_title">Акцент интерфейса входящего звонка</string>
+    <string name="dialer_accent_enable_summary">Использовать цвет акцента для фона интерфейса входящего звонка</string>
 </resources>
