@@ -33,5 +33,11 @@
     <string name="fullscreen_caller_photo_title">Foto op volledig scherm</string>
     <string name="fullscreen_caller_photo_summary">Toon foto op volledig scherm bij inkomende en uitgaande oproepen</string>
     <string name="fullscreen_caller_photo_message">Om dit te gebruiken moet de applicatie worden herstart</string>
+    <string name="enable_post_call_title">Notificaties na de oproep</string>
+    <string name="enable_post_call_summary">Notificaties na het gesprek toestaan aan de onderkant van het scherm</string>
+    <string name="auto_call_recording_title">Gesprekken automatisch opnemen</string>
     <string name="disable_proximity_sensor_title">Uitschakelen nabijheidssensor</string>
+    <string name="disable_proximity_sensor_summary">Schakel touchscreen en scherm tijdens gesprek niet uit op basis van nabijheidssensor</string>
+    <string name="dialer_accent_enable_title">In-Call UI Accent</string>
+    <string name="dialer_accent_enable_summary">Gebruik accentkleur voor in-Call UI achtergrond</string>
 </resources>
