@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Setelan lainnya</string>
     <string name="smart_category_title">Gerakan</string>
     <string name="smart_mute_title">Bisukan cerdas</string>
     <string name="speaker_settings_label">Jarak speaker</string>
