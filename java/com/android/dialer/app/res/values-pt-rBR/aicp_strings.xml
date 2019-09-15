@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Outras configurações</string>
     <string name="smart_category_title">Gestos</string>
     <string name="smart_mute_title">Sem som inteligente</string>
     <string name="smart_mute_summary">Virar o dispositivo para silenciar a chamada recebida</string>
@@ -32,4 +33,11 @@
     <string name="fullscreen_caller_photo_title">Modo de tela cheia</string>
     <string name="fullscreen_caller_photo_summary">Exibir modo de tela cheia nas chamadas recebidas e efetuadas</string>
     <string name="fullscreen_caller_photo_message">Para aplicar, você deve reiniciar o aplicativo</string>
+    <string name="enable_post_call_title">Postar barra de chamadas</string>
+    <string name="enable_post_call_summary">Ativar notificações pós-chamada na parte inferior da tela</string>
+    <string name="auto_call_recording_title">Gravação automática de chamadas</string>
+    <string name="disable_proximity_sensor_title">Desativar sensor de proximidade</string>
+    <string name="disable_proximity_sensor_summary">Não desative o touchscreen e exibir na chamada com base no sensor de proximidade</string>
+    <string name="dialer_accent_enable_title">Cor da interface de usuário em chamadas</string>
+    <string name="dialer_accent_enable_summary">Usar cor de destaque para fundo da interface de chamada</string>
 </resources>

@@ -20,8 +20,11 @@
     <string name="people">メンバー</string>
     <string name="lookup_settings_label">電話番号検索</string>
     <string name="enable_forward_lookup_title">正引き検索</string>
+    <string name="enable_forward_lookup_summary">ダイヤル画面で検索している時に周辺スポットを表示する</string>
     <string name="enable_people_lookup_title">人物検索</string>
+    <string name="enable_people_lookup_summary">ダイヤル画面で検索している時に人物のオンライン検索結果を表示する</string>
     <string name="enable_reverse_lookup_title">逆引き検索</string>
+    <string name="enable_reverse_lookup_summary">着信中に不明な番号の人物または場所の情報を検索する</string>
     <string name="forward_lookup_provider_title">正引き検索のプロバイダー</string>
     <string name="people_lookup_provider_title">人物検索のプロバイダー</string>
     <string name="reverse_lookup_provider_title">逆引き検索のプロバイダー</string>

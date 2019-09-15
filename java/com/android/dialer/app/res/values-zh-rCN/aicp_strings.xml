@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">其他设置</string>
     <string name="smart_category_title">手势操作</string>
     <string name="smart_mute_title">智能静音</string>
     <string name="smart_mute_summary">翻转设备使来电静音</string>
@@ -29,5 +30,14 @@
     <string name="prox_auto_speaker_incall_only_title">仅在通话时</string>
     <string name="prox_auto_speaker_incall_only_summary_on">在拨出电话时，监听器在对方接听后才启用</string>
     <string name="prox_auto_speaker_incall_only_summary_off">监听器在通话状态始终激活 (默认)</string>
+    <string name="fullscreen_caller_photo_title">全屏照片</string>
     <string name="fullscreen_caller_photo_summary">通话呼入或呼出时全屏显示照片</string>
+    <string name="fullscreen_caller_photo_message">要使用，您必须重新启动应用程序</string>
+    <string name="enable_post_call_title">通话结束后通知</string>
+    <string name="enable_post_call_summary">在屏幕底部启用呼叫通知</string>
+    <string name="auto_call_recording_title">自动通话录音</string>
+    <string name="disable_proximity_sensor_title">禁用距离传感器</string>
+    <string name="disable_proximity_sensor_summary">不关闭触摸屏，并在基于接近传感器的通话中显示</string>
+    <string name="dialer_accent_enable_title">通话界面主题色</string>
+    <string name="dialer_accent_enable_summary">通话界面背景使用主题色</string>
 </resources>

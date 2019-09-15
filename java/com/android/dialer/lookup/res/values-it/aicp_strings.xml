@@ -16,4 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Luoghi nelle vicinanze</string>
+    <string name="people">Utenti</string>
+    <string name="lookup_settings_label">Ricerca del numero di telefono</string>
+    <string name="enable_forward_lookup_title">Ricerca diretta</string>
+    <string name="enable_forward_lookup_summary">Mostra i luoghi nelle vicinanze durante la ricerca sulla tastiera</string>
+    <string name="enable_people_lookup_title">Ricerca persone</string>
+    <string name="enable_people_lookup_summary">Mostra i risultati online sulle persone durante la ricerca sulla tastiera</string>
+    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
+    <string name="enable_reverse_lookup_summary">Cerca le informazioni sulla persona o luogo per i numeri sconosciuti sulle chiamate in arrivo</string>
+    <string name="forward_lookup_provider_title">Provider di ricerca diretta</string>
+    <string name="people_lookup_provider_title">Provider di ricerca persone</string>
+    <string name="reverse_lookup_provider_title">Provider di ricerca inversa</string>
 </resources>

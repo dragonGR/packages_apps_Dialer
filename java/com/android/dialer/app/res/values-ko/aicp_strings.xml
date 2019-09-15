@@ -17,5 +17,27 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">기타 설정</string>
+    <string name="smart_category_title">제스쳐</string>
     <string name="smart_mute_title">스마트 음소거</string>
+    <string name="smart_mute_summary">수신 전화를 음소거하려면 기기 뒤집기</string>
+    <string name="speaker_settings_label">근접 스피커폰</string>
+    <string name="prox_auto_speaker_title">자동으로 스피커폰으로 전환</string>
+    <string name="prox_auto_speaker_summary">통화 중 기기가 사용자의 귀에서 멀어졌을 때 자동으로 스피커폰을 활성화</string>
+    <string name="prox_auto_speaker_delay_title">스피커폰 지연 시간</string>
+    <string name="prox_auto_speaker_delay_dialog_title">스피커폰 지연 (ms)</string>
+    <string name="prox_auto_speaker_delay_summary"><xliff:g id="number">%d</xliff:g> ms 후에 스피커폰 활성화</string>
+    <string name="prox_auto_speaker_incall_only_title">통화중에만 사용</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">발신 중일 경우, 스피커 센서는 수신자가 회신하는 경우에만 활성화됩니다.</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">자동 스피커폰 기능은 모든 통화 중에 활성화됩니다 (기본값)</string>
+    <string name="fullscreen_caller_photo_title">전체 화면 사진</string>
+    <string name="fullscreen_caller_photo_summary">수발신 통화에 전체 화면 사진 표시</string>
+    <string name="fullscreen_caller_photo_message">사용하려면 응용 프로그램을 다시 시작해야합니다.</string>
+    <string name="enable_post_call_title">통화 후 알림</string>
+    <string name="enable_post_call_summary">전화 알림을 화면 하단에 표시하도록 설정</string>
+    <string name="auto_call_recording_title">자동 통화 녹음</string>
+    <string name="disable_proximity_sensor_title">근접 센서 사용 불가</string>
+    <string name="disable_proximity_sensor_summary">근접 센서를 기준으로 터치 스크린을 끄고 통화 상태를 표시하지 마십시오.</string>
+    <string name="dialer_accent_enable_title">In-Call UI Accent</string>
+    <string name="dialer_accent_enable_summary">통화 중 UI 배경에 액센트 색상 사용</string>
 </resources>
