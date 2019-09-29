@@ -33,8 +33,11 @@
     <string name="fullscreen_caller_photo_title">Zdjęcie na pełen ekran</string>
     <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie dzwoniącego na pełnym ekranie dla połączeń przychodzących i wychodzących</string>
     <string name="fullscreen_caller_photo_message">By użyć, musisz zrestartować aplikację</string>
+    <string name="enable_post_call_title">Wyślij przez bar szybkiej obsługi</string>
     <string name="enable_post_call_summary">Włącz powiadomienia o połączeniu na dole ekranu</string>
     <string name="auto_call_recording_title">Automatyczne nagrywanie połączeń</string>
     <string name="disable_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
     <string name="disable_proximity_sensor_summary">Nie wyłączaj ekranu dotykowego i nie wyświetlaj rozmów w oparciu o czujnik zbliżeniowy</string>
+    <string name="dialer_accent_enable_title">Akcent systemu w trakcie połączenia</string>
+    <string name="dialer_accent_enable_summary">Użyj koloru akcentu dla tła interfejsu połączenia</string>
 </resources>
