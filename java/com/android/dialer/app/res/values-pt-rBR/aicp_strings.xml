@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+     Copyright (C) 2018 AICP ROM
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Outras configurações</string>
+    <string name="smart_category_title">Outras opções</string>
+    <string name="smart_mute_title">Sem som inteligente</string>
+    <string name="smart_mute_summary">Silenciar a chamada de entrada, lançando o dispositivo</string>
+    <string name="speaker_settings_label">Viva-voz</string>
+    <string name="prox_auto_speaker_title">Viva-voz automático</string>
+    <string name="prox_auto_speaker_summary">Ativar o viva-voz automaticamente quando o telefone é removido da sua orelha</string>
+    <string name="prox_auto_speaker_delay_title">Atraso do viva-voz</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Atraso do viva-voz em (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">O viva-voz será ativado em <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Apenas durante uma chamada</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Em chamadas sendo realizadas, o auto-falante só ficará ativo após a outra pessoa responder</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">O ouvinte ficará ativo durante todo o processo da chamada (padrão)</string>
+    <string name="enable_post_call_title">Postar barra de chamadas</string>
+    <string name="enable_post_call_summary">Ativar notificações pós-chamada na parte inferior da tela</string>
+    <string name="disable_proximity_sensor_title">Desativar sensor de proximidade</string>
+    <string name="disable_proximity_sensor_summary">Não desative o touchscreen e exibir na chamada com base no sensor de proximidade</string>
+    <string name="auto_call_recording_title">Gravação automática de chamadas</string>
+    <string name="fullscreen_caller_photo_title">Modo de tela cheia</string>
+    <string name="fullscreen_caller_photo_summary">Exibir modo de tela cheia nas chamadas recebidas e efetuadas</string>
+    <string name="fullscreen_caller_photo_message">Para aplicar, você deve reiniciar o aplicativo</string>
+</resources>

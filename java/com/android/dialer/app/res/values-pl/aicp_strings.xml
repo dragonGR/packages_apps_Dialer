@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+     Copyright (C) 2018 AICP ROM
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">Inne ustawienia</string>
+    <string name="incall_vibration_category_title">Wibracje w trakcie rozmowy</string>
+    <string name="incall_vibrate_outgoing_title">Wibracja przy odebraniu</string>
+    <string name="incall_vibrate_call_waiting_title">Wibracja przy połączeniu oczekującym</string>
+    <string name="incall_vibrate_hangup_title">Wibracja przy rozłączeniu</string>
+    <string name="incall_vibrate_45_title">Wibracja co minutę</string>
+    <string name="incall_vibrate_45_summary">Wibracja podczas 45 sekundy każdej minuty połączenia wychodzącego</string>
+    <string name="smart_category_title">Pozostałe opcje</string>
+    <string name="smart_mute_title">Inteligentne wyciszanie</string>
+    <string name="smart_mute_summary">Wyciszenie dzwonka połączenia przychodzącego przez obrócenie urządzenia</string>
+    <string name="speaker_settings_label">Czujnik zbliżeniowy zestawu głośnomówiącego</string>
+    <string name="prox_auto_speaker_title">Automatyczny czujnik zbliżeniowy zestawu głośnomówiącego</string>
+    <string name="prox_auto_speaker_summary">Automatycznie włącz zestaw głośnomówiący, gdy telefon zostanie odsunięty od ucha</string>
+    <string name="prox_auto_speaker_delay_title">Opóźnienie zestawu głośnomówiącego</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Opóźnienie zestawu głośnomówiącego w (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">Zestaw głośnomówiący zostanie aktywowany w ciągu <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Tylko podczas rozmowy</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Dla połączeń wychodzących, detektor będzie aktywny tylko po otrzymaniu odpowiedzi</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Detektor będzie aktywny podczas wszystkich rodzajów połączeń (domyślnie)</string>
+    <string name="enable_post_call_title">Wyślij przez bar szybkiej obsługi</string>
+    <string name="enable_post_call_summary">Włącz powiadomienia o połączeniu na dole ekranu</string>
+    <string name="disable_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
+    <string name="disable_proximity_sensor_summary">Nie wyłączaj ekranu dotykowego i nie wyświetlaj rozmów w oparciu o czujnik zbliżeniowy</string>
+    <string name="incall_category_title">W trakcie połączenia</string>
+    <string name="incall_enable_dnd_title">Włącz tryb Nie przeszkadzać podczas połączeń</string>
+    <string name="incall_dnd_dialog_message">Aby włączyć tryb \"Nie przeszkadzać\", aplikacja \"Telefon\" musi otrzymać uprawnienia do kontrolowania statusu \"Nie przeszkadzać\".\nZezwól na to.</string>
+    <string name="allow">Zezwól</string>
+    <string name="deny">Odmów</string>
+    <string name="prox_auto_answer_incall_only_title">Auto odbieranie</string>
+    <string name="prox_auto_answer_incall_only_summary">Użyj czujnika zbliżeniowego do automatycznego odbierania</string>
+    <string name="auto_answer_call_title">Automatyczne odbieranie</string>
+    <string name="auto_answer_call_summary">Automatycznie odbieranie za pomocą BT lub bezprzewodowego zestawu słuchawkowego</string>
+    <string name="auto_answer_delay_title">Opóźnienie automatycznej odpowiedzi</string>
+    <string name="auto_answer_dialog_title">Opóźnienie autoodpowiedzi w (ms)</string>
+    <string name="auto_answer_delay_summary">Automatyczna odpowiedź zostanie aktywowana w ciągu  <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="call_recording_category_title">Nagrywanie połączenia</string>
+    <string name="call_recording_format">Format audio</string>
+    <string name="auto_call_recording_title">Automatyczne nagrywanie połączeń</string>
+    <string name="call_via">Zadzwoń przez</string>
+    <string name="call_via_dialog_title">Zadzwoń przez\u2026</string>
+    <string name="call_log_stats_title">Statystyki</string>
+    <string name="fullscreen_caller_photo_title">Zdjęcie na pełen ekran</string>
+    <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie dzwoniącego na pełnym ekranie dla połączeń przychodzących i wychodzących</string>
+    <string name="fullscreen_caller_photo_message">By użyć, musisz zrestartować aplikację</string>
+</resources>
