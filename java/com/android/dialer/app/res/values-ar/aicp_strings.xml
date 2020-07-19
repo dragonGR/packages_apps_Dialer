@@ -17,9 +17,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">إعدادات أخرى</string>
+    <!-- InCall vibration settings -->
+    <!-- Smart Options -->
     <string name="smart_category_title">خيارات أخرى</string>
     <string name="smart_mute_title">الكتم الذكي</string>
     <string name="smart_mute_summary">كتم المكالمات المستلمة بقلب الجهاز</string>
+    <!-- Proximity speaker -->
     <string name="speaker_settings_label">مكبر الصوت التقاربي</string>
     <string name="prox_auto_speaker_title">مكبر صوت تقاربي تلقائي</string>
     <string name="prox_auto_speaker_summary">تفعيل مكبر الصوت تلقائياً عند إزالة الهاتف من أذنك</string>
@@ -29,11 +32,19 @@
     <string name="prox_auto_speaker_incall_only_title">فقط أثناء المكالمة</string>
     <string name="prox_auto_speaker_incall_only_summary_on">عند المكالمات الصادرة، المستمع سيصبح نشطاً فقط بعد أن يجيب الطرف المستلم</string>
     <string name="prox_auto_speaker_incall_only_summary_off">المستمع سيكون نشطاً أثناء كل حالات رفع سماعة الإتصال.(أفتراضي)</string>
+    <!-- Dialer postcall -->
     <string name="enable_post_call_title">إشعار ما بعد المكالمة</string>
     <string name="enable_post_call_summary">تفعيل إشعارات بعد الإتصال في أسفل الشاشة</string>
+    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">تعطيل مستشعر التقارب</string>
     <string name="disable_proximity_sensor_summary">لا تقم بإيقاف تشغيل الشاشة التي تعمل باللمس في المكالمة بناءً على مستشعر القرب</string>
+    <!-- In-call UI DND -->
+    <!-- proximity autoanswer feature -->
+    <!-- Call Recording -->
     <string name="auto_call_recording_title">تسجيل تلقائي للمكالمات</string>
+    <!-- Per-call account selection -->
+    <!-- Call stats -->
+    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">الصورة بكامل الشاشة</string>
     <string name="fullscreen_caller_photo_summary">عرض صورة كاملة عند الاتصالات الواردة والصادرة</string>
     <string name="fullscreen_caller_photo_message">للاستخدام، يجب عليك أن تعيد تشغيل التطبيق</string>

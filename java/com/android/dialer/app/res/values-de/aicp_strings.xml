@@ -17,15 +17,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Weitere Einstellungen</string>
+    <!-- InCall vibration settings -->
     <string name="incall_vibration_category_title">Vibration während des Anrufs</string>
     <string name="incall_vibrate_outgoing_title">Bei Rufannahme vibrieren</string>
     <string name="incall_vibrate_call_waiting_title">Vibration bei wartendem Anruf</string>
     <string name="incall_vibrate_hangup_title">Beim Auflegen vibrieren</string>
     <string name="incall_vibrate_45_title">Jede Minute vibrieren</string>
     <string name="incall_vibrate_45_summary">Während ausgehender Anrufe 15 Sekunden vor dem Ende jeder vollen Minute vibrieren</string>
+    <!-- Smart Options -->
     <string name="smart_category_title">Weitere Optionen</string>
     <string name="smart_mute_title">Intelligentes Stummschalten</string>
     <string name="smart_mute_summary">Eingehende Anrufe stummschalten, indem das Gerät umgedreht wird</string>
+    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Freisprechen</string>
     <string name="prox_auto_speaker_title">Automatisches Freisprechen</string>
     <string name="prox_auto_speaker_summary">Freisprechen automatisch aktivieren, wenn das Telefon vom Ohr entfernt wird</string>
@@ -35,28 +38,36 @@
     <string name="prox_auto_speaker_incall_only_title">Nur während eines Gesprächs</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird die Funktion erst aktiv, wenn der Empfänger abhebt</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Die Funktion ist während des gesamten Telefonats aktiv (Standard)</string>
+    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Benachrichtigung nach dem Anruf</string>
     <string name="enable_post_call_summary">Benachrichtigungen nach einem Anruf am unteren Bildschirmrand aktivieren</string>
+    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Näherungssensor deaktivieren</string>
     <string name="disable_proximity_sensor_summary">Display nicht ausschalten und während des Anrufs, basierend auf dem Näherungssensor, anzeigen</string>
+    <!-- In-call UI DND -->
     <string name="incall_category_title">Im Gespräch</string>
     <string name="incall_enable_dnd_title">\"Bitte nicht stören\" während Gesprächen aktivieren</string>
     <string name="incall_dnd_dialog_message">Um \"Bitte nicht stören\" aktivieren zu können, benötigt die Telefon-App die Berechtigung, den \"Bitte nicht stören\"-Modus zu steuern.\nBitte dieses erlauben.</string>
     <string name="allow">Erlauben</string>
     <string name="deny">Verweigern</string>
-    <string name="prox_auto_answer_incall_only_title">Automatische Rufannahme bei Gesprächen</string>
+    <!-- proximity autoanswer feature -->
+    <string name="prox_auto_answer_incall_only_title">Automatische Antwort nur bei laufendem Gespräch</string>
     <string name="prox_auto_answer_incall_only_summary">Näherungssensor für automatische Rufannahme verwenden</string>
-    <string name="auto_answer_call_title">Automatische Rufannahme</string>
-    <string name="auto_answer_call_summary">Automatische Rufannahme bei Bluetoothverbindung oder kabelgebundenem Headset verwenden</string>
+    <string name="auto_answer_call_title">Automatische Rufannahme bei Gesprächen</string>
+    <string name="auto_answer_call_summary">Eingehende Anrufe automatisch beantworten, wenn eine Verbindung über Bluetooth oder kabelgebundenes Headset besteht</string>
     <string name="auto_answer_delay_title">Verzögerung der automatischen Rufannahme</string>
-    <string name="auto_answer_dialog_title">Verzögerung der automatischen Rufannahme in (ms)</string>
+    <string name="auto_answer_dialog_title">Verzögerung in (ms) angeben</string>
     <string name="auto_answer_delay_summary">Automatische Rufannahme wird in <xliff:g id="number">%d</xliff:g> ms aktiviert</string>
+    <!-- Call Recording -->
     <string name="call_recording_category_title">Gesprächsaufzeichnung</string>
     <string name="call_recording_format">Audioformat</string>
     <string name="auto_call_recording_title">Automatische Anrufaufzeichnung</string>
+    <!-- Per-call account selection -->
     <string name="call_via">Anruf über</string>
     <string name="call_via_dialog_title">Anruf über\u2026</string>
+    <!-- Call stats -->
     <string name="call_log_stats_title">Statistiken</string>
+    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Vollbildmodus</string>
     <string name="fullscreen_caller_photo_summary">Vollbild-Foto in eingehenden und ausgehenden Anrufen anzeigen</string>
     <string name="fullscreen_caller_photo_message">Um dies zu nutzen, muss die Anwendung neu gestartet werden</string>
