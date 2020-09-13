@@ -17,18 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Overige instellingen</string>
-    <!-- InCall vibration settings -->
     <string name="incall_vibration_category_title">Trillen tijdens gesprek</string>
     <string name="incall_vibrate_outgoing_title">Trillen bij aannemen</string>
     <string name="incall_vibrate_call_waiting_title">Trillen bij wachten</string>
     <string name="incall_vibrate_hangup_title">Trillen bij ophangen</string>
     <string name="incall_vibrate_45_title">Elke minuut trillen</string>
     <string name="incall_vibrate_45_summary">Elke 45 seconden trillen tijdens uitgaande gesprekken</string>
-    <!-- Smart Options -->
     <string name="smart_category_title">Andere opties</string>
     <string name="smart_mute_title">Slim dempen</string>
     <string name="smart_mute_summary">Demp inkomende oproep door het apparaat om te keren</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Nabijheid luidspreker</string>
     <string name="prox_auto_speaker_title">Automatische nabijheid luidspreker</string>
     <string name="prox_auto_speaker_summary">Luidspreker automatisch inschakelen wanneer telefoon van het oor gehaald wordt</string>
@@ -38,32 +35,24 @@
     <string name="prox_auto_speaker_incall_only_title">Alleen tijdens bellen</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Bij uitgaande oproepen zal deze functie pas geactiveerd worden als de oproep beantwoord wordt</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Functie is actief, ongeacht de gespreksstatus (standaard)</string>
-    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Notificaties na de oproep</string>
     <string name="enable_post_call_summary">Notificaties na het gesprek toestaan aan de onderkant van het scherm</string>
-    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Uitschakelen nabijheidssensor</string>
     <string name="disable_proximity_sensor_summary">Schakel touchscreen en scherm tijdens gesprek niet uit op basis van nabijheidssensor</string>
-    <!-- In-call UI DND -->
     <string name="incall_category_title">Tijdens gesprek</string>
     <string name="incall_enable_dnd_title">\"Niet storen\" inschakelen tijdens gesprekken</string>
     <string name="incall_dnd_dialog_message">Om \"Niet storen\" in te schakelen, heeft de telefoonapp toestemming nodig om de status \"Niet storen\" in te stellen.\nGelieve dit toe te staan.</string>
     <string name="allow">Toestaan</string>
     <string name="deny">Weigeren</string>
-    <!-- proximity autoanswer feature -->
     <string name="prox_auto_answer_incall_only_summary">Nabijheidssensor gebruiken voor automatisch antwoord</string>
     <string name="auto_answer_call_title">Automatisch antwoord</string>
     <string name="auto_answer_dialog_title">Specificeer vertraging (in ms)</string>
-    <!-- Call Recording -->
     <string name="call_recording_category_title">Gespreksopname</string>
     <string name="call_recording_format">Audioformaat</string>
     <string name="auto_call_recording_title">Gesprekken automatisch opnemen</string>
-    <!-- Per-call account selection -->
     <string name="call_via">Bel via</string>
     <string name="call_via_dialog_title">Bel via\u2026</string>
-    <!-- Call stats -->
     <string name="call_log_stats_title">Statistieken</string>
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Foto op volledig scherm</string>
     <string name="fullscreen_caller_photo_summary">Toon foto op volledig scherm bij inkomende en uitgaande oproepen</string>
     <string name="fullscreen_caller_photo_message">Om dit te gebruiken moet de applicatie worden herstart</string>

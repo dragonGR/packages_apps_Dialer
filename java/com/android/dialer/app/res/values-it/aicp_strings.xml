@@ -17,12 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Altre impostazioni</string>
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
     <string name="smart_category_title">Altre opzioni</string>
     <string name="smart_mute_title">Muto intelligente</string>
     <string name="smart_mute_summary">Silenzia la chiamata in arrivo capovolgendo il dispositivo</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Sensore di prossimità del vivavoce</string>
     <string name="prox_auto_speaker_title">Vivavoce automatico</string>
     <string name="prox_auto_speaker_summary">Attiva automaticamente il vivavoce quando il telefono viene allontanato dall\'orecchio</string>
@@ -32,19 +29,11 @@
     <string name="prox_auto_speaker_incall_only_title">Solo durante le chiamate</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Nelle chiamate in uscita, il vivavoce verrà attivato dopo la risposta alla chiamata</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Il vivavoce sarà attivato per tutte le chiamate (predefinito)</string>
-    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Post chiamata snackbar</string>
     <string name="enable_post_call_summary">Attiva le notifiche post chiamata nella parte inferiore dello schermo</string>
-    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Disabilita il sensore di prossimità</string>
     <string name="disable_proximity_sensor_summary">Non disattivare il touchscreen e visualizzare in chiamata in base al sensore di prossimità</string>
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
     <string name="auto_call_recording_title">Registrazione automatica chiamate</string>
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Foto a schermo intero</string>
     <string name="fullscreen_caller_photo_summary">Visualizza la foto a schermo intero nelle chiamate in arrivo e in uscita</string>
     <string name="fullscreen_caller_photo_message">Per usarlo, è necessario riavviare l\'applicazione</string>

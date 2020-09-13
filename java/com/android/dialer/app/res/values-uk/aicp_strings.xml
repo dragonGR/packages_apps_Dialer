@@ -16,18 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
     <string name="smart_category_title">Інші налаштування</string>
     <string name="smart_mute_title">Розумне приглушення</string>
     <string name="smart_mute_summary">Приглушити вхідний дзвінок, перевернувши телефон</string>
-    <!-- Proximity speaker -->
-    <!-- Dialer postcall -->
-    <!-- Disable proximity sensor -->
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
 </resources>

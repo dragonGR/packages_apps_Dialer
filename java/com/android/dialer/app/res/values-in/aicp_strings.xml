@@ -17,12 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Setelan lainnya</string>
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
     <string name="smart_category_title">Pilihan lain</string>
     <string name="smart_mute_title">Bisukan cerdas</string>
     <string name="smart_mute_summary">Bisukan panggilan masuk dengan membalik perangkat</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Jarak speaker</string>
     <string name="prox_auto_speaker_title">Jarak speaker otomatis</string>
     <string name="prox_auto_speaker_summary">Mengaktifkan speaker secara otomatis saat Anda menjauhkan ponsel dari telinga</string>
@@ -32,14 +29,6 @@
     <string name="prox_auto_speaker_incall_only_title">Hanya saat sedang dalam panggilan</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Pada panggilan keluar, pendengar hanya akan aktif setelah pihak penerima menjawab</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Pendengar akan aktif selama semua status panggilan offhook (standar)</string>
-    <!-- Dialer postcall -->
-    <!-- Disable proximity sensor -->
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Foto layar penuh</string>
     <string name="fullscreen_caller_photo_message">Untuk menggunakan, Anda harus memulai ulang aplikasi</string>
 </resources>

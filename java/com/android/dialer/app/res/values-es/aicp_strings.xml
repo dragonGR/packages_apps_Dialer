@@ -17,18 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Otros ajustes</string>
-    <!-- InCall vibration settings -->
     <string name="incall_vibration_category_title">Vibrar al entrar una llamada</string>
     <string name="incall_vibrate_outgoing_title">Vibrar al contestar</string>
     <string name="incall_vibrate_call_waiting_title">Vibrar en llamada en espera</string>
     <string name="incall_vibrate_hangup_title">Vibrar al colgar</string>
     <string name="incall_vibrate_45_title">Vibrar cada minuto</string>
     <string name="incall_vibrate_45_summary">Vibrar en el segundo 45 de cada minuto durante las llamadas salientes</string>
-    <!-- Smart Options -->
     <string name="smart_category_title">Otras opciones</string>
     <string name="smart_mute_title">Silenciado inteligente</string>
     <string name="smart_mute_summary">Silenciar las llamadas entrantes volteando el dispositivo</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Altavoz de proximidad</string>
     <string name="prox_auto_speaker_title">Altavoz de proximidad automático</string>
     <string name="prox_auto_speaker_summary">Activa el altavoz automáticamente cuando el teléfono se retira de la oreja</string>
@@ -38,19 +35,15 @@
     <string name="prox_auto_speaker_incall_only_title">Solo durante una llamada</string>
     <string name="prox_auto_speaker_incall_only_summary_on">En llamadas salientes, el altavoz solo se activará cuando la otra persona conteste</string>
     <string name="prox_auto_speaker_incall_only_summary_off">El sensor estará activo durante todos los estados de la llamada en curso (predeterminado)</string>
-    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Notificación tras llamada</string>
     <string name="enable_post_call_summary">Habilitar notificaciones tras las llamadas en la parte inferior de la pantalla</string>
-    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Deshabilitar sensor de proximidad</string>
     <string name="disable_proximity_sensor_summary">No desactivar el panel táctil y la pantalla en una llamada basándose en el sensor de proximidad</string>
-    <!-- In-call UI DND -->
     <string name="incall_category_title">Llamada entrante</string>
     <string name="incall_enable_dnd_title">Activar no molestar durante las llamadas</string>
     <string name="incall_dnd_dialog_message">Para activar No molestar, la aplicación del teléfono necesita permiso para controlar el estado de No molestar.\nPermítalo por favor.</string>
     <string name="allow">Permitir</string>
     <string name="deny">Denegar</string>
-    <!-- proximity autoanswer feature -->
     <string name="prox_auto_answer_incall_only_title">Auto respuesta solo en llamada</string>
     <string name="prox_auto_answer_incall_only_summary">Usar sensor de proximidad para contestar la llamada de forma automática</string>
     <string name="auto_answer_call_title">Contestar automáticamente</string>
@@ -58,16 +51,12 @@
     <string name="auto_answer_delay_title">Tiempo de espera de respuesta automática</string>
     <string name="auto_answer_dialog_title">Especificar tiempo de espera en (ms)</string>
     <string name="auto_answer_delay_summary">La respuesta automática se activará en <xliff:g id="number">%d</xliff:g> ms</string>
-    <!-- Call Recording -->
     <string name="call_recording_category_title">Grabación de llamadas</string>
     <string name="call_recording_format">Formato de audio</string>
     <string name="auto_call_recording_title">Grabación automática de llamadas</string>
-    <!-- Per-call account selection -->
     <string name="call_via">Llamar a través de</string>
     <string name="call_via_dialog_title">Llamar a través de\u2026</string>
-    <!-- Call stats -->
     <string name="call_log_stats_title">Estadísticas</string>
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Foto en pantalla completa</string>
     <string name="fullscreen_caller_photo_summary">Mostrar foto en pantalla completa en llamadas entrantes y salientes</string>
     <string name="fullscreen_caller_photo_message">Para usarlo, debe reiniciar la aplicación</string>
