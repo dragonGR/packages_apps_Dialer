@@ -17,12 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Outras configurações</string>
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
     <string name="smart_category_title">Outras opções</string>
     <string name="smart_mute_title">Sem som inteligente</string>
     <string name="smart_mute_summary">Silenciar a chamada de entrada, lançando o dispositivo</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Viva-voz</string>
     <string name="prox_auto_speaker_title">Viva-voz automático</string>
     <string name="prox_auto_speaker_summary">Ativar o viva-voz automaticamente quando o telefone é removido da sua orelha</string>
@@ -32,19 +29,11 @@
     <string name="prox_auto_speaker_incall_only_title">Apenas durante uma chamada</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Em chamadas sendo realizadas, o auto-falante só ficará ativo após a outra pessoa responder</string>
     <string name="prox_auto_speaker_incall_only_summary_off">O ouvinte ficará ativo durante todo o processo da chamada (padrão)</string>
-    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Postar barra de chamadas</string>
     <string name="enable_post_call_summary">Ativar notificações pós-chamada na parte inferior da tela</string>
-    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Desativar sensor de proximidade</string>
     <string name="disable_proximity_sensor_summary">Não desative o touchscreen e exibir na chamada com base no sensor de proximidade</string>
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
     <string name="auto_call_recording_title">Gravação automática de chamadas</string>
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Modo de tela cheia</string>
     <string name="fullscreen_caller_photo_summary">Exibir modo de tela cheia nas chamadas recebidas e efetuadas</string>
     <string name="fullscreen_caller_photo_message">Para aplicar, você deve reiniciar o aplicativo</string>

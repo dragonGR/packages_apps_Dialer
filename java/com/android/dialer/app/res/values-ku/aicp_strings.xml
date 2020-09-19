@@ -16,20 +16,21 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
+    <string name="incall_vibrate_outgoing_title">له‌رینه‌وه‌ له‌کاتی وه‌ڵامدانەوە</string>
     <string name="smart_category_title">بژاردەکانیتر</string>
     <string name="smart_mute_title">کپکردنی زیرەک</string>
     <string name="smart_mute_summary">کپکردنی پەیوەندی هاتوو بەهەڵگەڕانەوەی ئامێر</string>
-    <!-- Proximity speaker -->
-    <!-- Dialer postcall -->
-    <!-- Disable proximity sensor -->
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
+    <string name="prox_auto_speaker_delay_title">سستی بڵندگۆی مۆبایل</string>
+    <string name="prox_auto_speaker_delay_dialog_title">سستی بڵندگۆی مۆبایل لە (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">بڵندگۆی مۆبایل چالاک دەکرێ لەدوای <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="incall_enable_dnd_title">کاراکردنی هەراسانم مەکە لەکاتی پەیوەندیدا</string>
+    <string name="incall_dnd_dialog_message">بۆ چالاککردنی هەراسانم مەکە، ئەپی پەیوەندی پێویستی بە پێدانی دەسەڵاتە بۆ کۆنتڕۆڵکردنی ڕەوشی هەراسانم مەکە. \n تکایە ڕێی پێبدە.</string>
+    <string name="prox_auto_answer_incall_only_title">وڵامدانەوەی خۆکاری تەنها لە پەیوەندیدا</string>
+    <string name="prox_auto_answer_incall_only_summary">بەکارهێنانی هەستەوەری نزیکی بۆ وڵامدانەوەی خۆکار</string>
+    <string name="auto_answer_call_title">وڵامدانەوەی خۆکاری</string>
+    <string name="auto_answer_call_summary">خۆکارانە وڵامدانەوەی پەیوەندی هاتوو کاتێ بە بیستۆکێکەوە پەیوەست کرابوو</string>
+    <string name="auto_answer_delay_title">سستی وڵامدانەوەی خۆکار</string>
+    <string name="auto_answer_delay_summary">وڵامدانەوەی خۆکاری چالاک ئەبێ دوای <xliff:g id="number">%d</xliff:g> ms</string>
     <string name="call_recording_category_title">پەیوەندی تۆمارکردن</string>
     <string name="auto_call_recording_title">تۆمارکردنی پەیوەندی خۆکاری</string>
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
 </resources>

@@ -17,12 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Diğer ayarlar</string>
-    <!-- InCall vibration settings -->
-    <!-- Smart Options -->
     <string name="smart_category_title">Diğer seçenekler</string>
     <string name="smart_mute_title">Akıllı sessizlik</string>
     <string name="smart_mute_summary">Cihazı çevirerek gelen aramayı yoksay</string>
-    <!-- Proximity speaker -->
     <string name="speaker_settings_label">Yakınlık hoparlörü</string>
     <string name="prox_auto_speaker_title">Otomatik yakınlık hoparlörü</string>
     <string name="prox_auto_speaker_summary">Telefonunuzu kulağınızdan çektiğinizde hoparlörü otomatik olarak etkinleştirir</string>
@@ -32,19 +29,11 @@
     <string name="prox_auto_speaker_incall_only_title">Yalnızca arama sırasında</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Giden aramalarda dinleyici sadece alıcı taraf cevapladıktan sonra aktif hale gelecektir</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Dinleyici aramayı cevapladığı durumda etkin olacak (varsayılan)</string>
-    <!-- Dialer postcall -->
     <string name="enable_post_call_title">Posta araması</string>
     <string name="enable_post_call_summary">Ekranın altında çağrı sonrası bildirimleri etkinleştir</string>
-    <!-- Disable proximity sensor -->
     <string name="disable_proximity_sensor_title">Yakınlık sensörünü devre dışı bırak</string>
     <string name="disable_proximity_sensor_summary">Yakınlık sensörüne bağlı olarak dokunmatik ekranı ve çağrıyı görüntülemeyin</string>
-    <!-- In-call UI DND -->
-    <!-- proximity autoanswer feature -->
-    <!-- Call Recording -->
     <string name="auto_call_recording_title">Otomatik arama kaydı</string>
-    <!-- Per-call account selection -->
-    <!-- Call stats -->
-    <!-- Fullscreen Photo -->
     <string name="fullscreen_caller_photo_title">Tam ekran fotoğrafı</string>
     <string name="fullscreen_caller_photo_summary">Gelen ve giden aramalarda tam ekran fotoğrafı göster</string>
     <string name="fullscreen_caller_photo_message">Kullanmak için uygulamayı yeniden başlatmanız gerekir</string>

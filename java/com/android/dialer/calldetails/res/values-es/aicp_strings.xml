@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2014 The CyanogenMod Project
-     Copyright (C) 2018 AICP ROM
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,5 +15,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="smart_mute_summary">Couper le son de l\'appel entrant en retournant l\'appareil</string>
+    <plurals name="play_recordings">
+        <item quantity="one">Reproducir grabación</item>
+        <item quantity="other">Reproducir grabaciones</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">No se encontró ninguna aplicación para reproducir la grabación seleccionada.</string>
 </resources>
